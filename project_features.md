@@ -1,7 +1,3 @@
-# ## TC_01: Product Search
-# Status: Pass
-# Description: Search for "Laptop" displays correct products.
-# 
-# ## TC_02: Category & Price Filter
-# Status: Pass
-# Description: Filters correctly narrow products by price range (500-1000).
+# ## TC_11: Negative Quantity Validation
+# Status: Failed
+# Description: System has issues negative quantity inputs (e.g., -5).
