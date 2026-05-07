@@ -1,7 +1,6 @@
-# ## TC_01: Product Search
-# Status: Pass
-# Description: Search for "Laptop" displays correct products.
-# 
-# ## TC_02: Category & Price Filter
-# Status: Pass
-# Description: Filters correctly narrow products by price range (500-1000).
+# \## TC\_03: Add cart
+
+# Status: Success
+
+# Description: System issue fixed add cart (e.g., -5).
+
