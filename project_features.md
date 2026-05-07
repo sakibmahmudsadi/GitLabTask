@@ -1,3 +1,6 @@
-# ## TC_11: Negative Quantity Validation
-# Status: Failed
-# Description: System has issues negative quantity inputs (e.g., -5).
+# \## TC\_03: Add cart
+
+# Status: Success
+
+# Description: System issue fixed add cart (e.g., -5).
+
