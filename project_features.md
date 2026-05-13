@@ -1,6 +1,6 @@
-# \## TC\_03: Add cart
+# \## TC\_09: Store Owner
 
 # Status: Success
 
-# Description: System issue fixed add cart (e.g., -5).
+# Description: Verify order status update
 
